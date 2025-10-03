@@ -1,0 +1,272 @@
+[
+  {
+    "_id": "6821f53c89760cf46b51f366",
+    "NDC": "0143-9533-01",
+    "error_message": "Failed to upload image for OCR. Status code: 400",
+    "error_time": "12/05/25 18:48:52"
+  },
+  {
+    "_id": "6821f54c89760cf46b51f367",
+    "NDC": "0143-9533-01",
+    "error_message": "Failed to upload image for OCR. Status code: 400",
+    "error_time": "12/05/25 18:49:08"
+  },
+  {
+    "_id": "6821f56289760cf46b51f368",
+    "NDC": "0143-9533-01",
+    "error_message": "Failed to upload image for OCR. Status code: 400",
+    "error_time": "12/05/25 18:49:30"
+  },
+  {
+    "_id": "6822d6ed89760cf46b51f369",
+    "NDC": "60505-6230-4",
+    "error_message": "Failed to upload image for OCR. Status code: 400",
+    "error_time": "13/05/25 10:51:49"
+  },
+  {
+    "_id": "6822d6f989760cf46b51f36a",
+    "NDC": "60505-6230-4",
+    "error_message": "Failed to upload image for OCR. Status code: 400",
+    "error_time": "13/05/25 10:52:01"
+  },
+  {
+    "_id": "6822d78889760cf46b51f36b",
+    "NDC": "60505-6230-4",
+    "error_message": "Failed to upload image for OCR. Status code: 400",
+    "error_time": "13/05/25 10:54:24"
+  },
+  {
+    "_id": "6822d7b313bd0eec712173f7",
+    "NDC": "60505-6230-4",
+    "error_message": "Failed to upload image for OCR. Status code: 400",
+    "error_time": "13/05/25 10:55:07"
+  },
+  {
+    "_id": "68231b8e13bd0eec712173f8",
+    "NDC": "72162-2362-6",
+    "error_message": "Failed to upload image for OCR. Status code: 400",
+    "error_time": "13/05/25 15:44:38"
+  },
+  {
+    "_id": "68231bb613bd0eec712173f9",
+    "NDC": "64380-177-01",
+    "error_message": "Failed to upload image for OCR. Status code: 400",
+    "error_time": "13/05/25 15:45:18"
+  },
+  {
+    "_id": "68231d9d13bd0eec712173fa",
+    "NDC": "64380-177-01",
+    "error_message": "Failed to upload image for OCR. Status code: 400",
+    "error_time": "13/05/25 15:53:25"
+  },
+  {
+    "_id": "68231dde13bd0eec712173fb",
+    "NDC": "64380-177-01",
+    "error_message": "Failed to upload image for OCR. Status code: 400",
+    "error_time": "13/05/25 15:54:30"
+  },
+  {
+    "_id": "68231e3213bd0eec712173fc",
+    "NDC": "64380-177-01",
+    "error_message": "Failed to upload image for OCR. Status code: 400",
+    "error_time": "13/05/25 15:55:54"
+  },
+  {
+    "_id": "68231e7213bd0eec712173fd",
+    "NDC": "72162-2362-6",
+    "error_message": "Failed to upload image for OCR. Status code: 400",
+    "error_time": "13/05/25 15:56:58"
+  },
+  {
+    "_id": "68231efd599086eaba8fe070",
+    "NDC": "64380-177-01",
+    "error_message": "Failed to upload image for OCR. Status code: 400",
+    "error_time": "13/05/25 15:59:17"
+  },
+  {
+    "_id": "68231f85ae290f2f67243351",
+    "NDC": "64380-177-01",
+    "error_message": "Failed to upload image for OCR. Status code: 400",
+    "error_time": "13/05/25 16:01:33"
+  },
+  {
+    "_id": "68232000ae290f2f67243352",
+    "NDC": "64380-177-01",
+    "error_message": "Failed to upload image for OCR. Status code: 400",
+    "error_time": "13/05/25 16:03:36"
+  },
+  {
+    "_id": "68564c2aaebe6c27fb7029cc",
+    "NDC": "67919-030-01",
+    "error_message": "Error uploading image for OCR: HTTPConnectionPool(host='52.66.85.189', port=80): Max retries exceeded with url: /api_upload-image/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fa2f5ea3af0>, 'Connection to 52.66.85.189 timed out. (connect timeout=None)'))",
+    "error_time": "21/06/25 11:37:38"
+  },
+  {
+    "_id": "68564c36aebe6c27fb7029cd",
+    "NDC": "67919-030-01",
+    "error_message": "Error uploading image for OCR: HTTPConnectionPool(host='52.66.85.189', port=80): Max retries exceeded with url: /api_upload-image/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fa2f58bbca0>, 'Connection to 52.66.85.189 timed out. (connect timeout=None)'))",
+    "error_time": "21/06/25 11:37:50"
+  },
+  {
+    "_id": "68564c42aebe6c27fb7029ce",
+    "NDC": "67919-030-01",
+    "error_message": "Error uploading image for OCR: HTTPConnectionPool(host='52.66.85.189', port=80): Max retries exceeded with url: /api_upload-image/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fa2f6a06980>, 'Connection to 52.66.85.189 timed out. (connect timeout=None)'))",
+    "error_time": "21/06/25 11:38:02"
+  },
+  {
+    "_id": "68564c57aebe6c27fb7029cf",
+    "NDC": "67919-030-01",
+    "error_message": "Error uploading image for OCR: HTTPConnectionPool(host='52.66.85.189', port=80): Max retries exceeded with url: /api_upload-image/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fa2f63d5fc0>, 'Connection to 52.66.85.189 timed out. (connect timeout=None)'))",
+    "error_time": "21/06/25 11:38:23"
+  },
+  {
+    "_id": "68565e3eaebe6c27fb7029d0",
+    "NDC": "54868-5749-0",
+    "error_message": "Error uploading image for OCR: HTTPConnectionPool(host='52.66.85.189', port=80): Max retries exceeded with url: /api_upload-image/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fa30469bdc0>, 'Connection to 52.66.85.189 timed out. (connect timeout=None)'))",
+    "error_time": "21/06/25 12:54:46"
+  },
+  {
+    "_id": "68567d45aebe6c27fb7029d1",
+    "NDC": "54123-986-30",
+    "error_message": "Error uploading image for OCR: HTTPConnectionPool(host='52.66.85.189', port=80): Max retries exceeded with url: /api_upload-image/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fa2f4c86470>, 'Connection to 52.66.85.189 timed out. (connect timeout=None)'))",
+    "error_time": "21/06/25 15:07:09"
+  },
+  {
+    "_id": "68567d4daebe6c27fb7029d2",
+    "NDC": "54123-986-30",
+    "error_message": "Error uploading image for OCR: HTTPConnectionPool(host='52.66.85.189', port=80): Max retries exceeded with url: /api_upload-image/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fa2f4de75e0>, 'Connection to 52.66.85.189 timed out. (connect timeout=None)'))",
+    "error_time": "21/06/25 15:07:17"
+  },
+  {
+    "_id": "68567d59aebe6c27fb7029d3",
+    "NDC": "54123-986-30",
+    "error_message": "Error uploading image for OCR: HTTPConnectionPool(host='52.66.85.189', port=80): Max retries exceeded with url: /api_upload-image/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fa2fe725960>, 'Connection to 52.66.85.189 timed out. (connect timeout=None)'))",
+    "error_time": "21/06/25 15:07:29"
+  },
+  {
+    "_id": "68567d5daebe6c27fb7029d4",
+    "NDC": "54123-114-30",
+    "error_message": "Error uploading image for OCR: HTTPConnectionPool(host='52.66.85.189', port=80): Max retries exceeded with url: /api_upload-image/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fa30159bd30>, 'Connection to 52.66.85.189 timed out. (connect timeout=None)'))",
+    "error_time": "21/06/25 15:07:33"
+  },
+  {
+    "_id": "685681dcaebe6c27fb7029d5",
+    "NDC": "61269-660-20",
+    "error_message": "Error uploading image for OCR: HTTPConnectionPool(host='52.66.85.189', port=80): Max retries exceeded with url: /api_upload-image/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fa2fb18c8e0>, 'Connection to 52.66.85.189 timed out. (connect timeout=None)'))",
+    "error_time": "21/06/25 15:26:44"
+  },
+  {
+    "_id": "6856859baebe6c27fb7029d6",
+    "NDC": "54868-5884-0",
+    "error_message": "Error uploading image for OCR: HTTPConnectionPool(host='52.66.85.189', port=80): Max retries exceeded with url: /api_upload-image/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fa302bac610>, 'Connection to 52.66.85.189 timed out. (connect timeout=None)'))",
+    "error_time": "21/06/25 15:42:43"
+  },
+  {
+    "_id": "68569ca12391794ae582f8ca",
+    "NDC": "69452-338-13",
+    "error_message": "Error uploading image for OCR: HTTPConnectionPool(host='52.66.85.189', port=80): Max retries exceeded with url: /api_upload-image/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7cb421dd6830>, 'Connection to 52.66.85.189 timed out. (connect timeout=None)'))",
+    "error_time": "21/06/25 17:20:57"
+  },
+  {
+    "_id": "68569e362391794ae582f8cb",
+    "NDC": "54868-5799-0",
+    "error_message": "Error uploading image for OCR: HTTPConnectionPool(host='52.66.85.189', port=80): Max retries exceeded with url: /api_upload-image/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7cb4231a9420>, 'Connection to 52.66.85.189 timed out. (connect timeout=None)'))",
+    "error_time": "21/06/25 17:27:42"
+  },
+  {
+    "_id": "6856a8092391794ae582f8cc",
+    "NDC": "73059-001-06",
+    "error_message": "Error uploading image for OCR: HTTPConnectionPool(host='52.66.85.189', port=80): Max retries exceeded with url: /api_upload-image/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7cb422f54b20>, 'Connection to 52.66.85.189 timed out. (connect timeout=None)'))",
+    "error_time": "21/06/25 18:09:37"
+  },
+  {
+    "_id": "6856a8112391794ae582f8cd",
+    "NDC": "73059-001-06",
+    "error_message": "Error uploading image for OCR: HTTPConnectionPool(host='52.66.85.189', port=80): Max retries exceeded with url: /api_upload-image/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7cb41cc55a20>, 'Connection to 52.66.85.189 timed out. (connect timeout=None)'))",
+    "error_time": "21/06/25 18:09:45"
+  },
+  {
+    "_id": "6856a9926c21cc02eef22c79",
+    "NDC": "73059-001-06",
+    "error_message": "Error uploading image for OCR: HTTPConnectionPool(host='52.66.85.189', port=80): Max retries exceeded with url: /api_upload-image/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x711b9fbb1450>, 'Connection to 52.66.85.189 timed out. (connect timeout=None)'))",
+    "error_time": "21/06/25 18:16:10"
+  },
+  {
+    "_id": "6856a9d46c21cc02eef22c7a",
+    "NDC": "73059-001-06",
+    "error_message": "Error uploading image for OCR: HTTPConnectionPool(host='52.66.85.189', port=80): Max retries exceeded with url: /api_upload-image/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x711b94354970>, 'Connection to 52.66.85.189 timed out. (connect timeout=None)'))",
+    "error_time": "21/06/25 18:17:16"
+  },
+  {
+    "_id": "6856a9e86c21cc02eef22c7b",
+    "NDC": "73059-001-06",
+    "error_message": "Error uploading image for OCR: HTTPConnectionPool(host='52.66.85.189', port=80): Max retries exceeded with url: /api_upload-image/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x711b9b0c4d30>, 'Connection to 52.66.85.189 timed out. (connect timeout=None)'))",
+    "error_time": "21/06/25 18:17:36"
+  },
+  {
+    "_id": "6856b54e45ec13056dfda3d9",
+    "NDC": "54288-105-01",
+    "error_message": "Failed to upload image for OCR. Status code: 503",
+    "error_time": "21/06/25 19:06:14"
+  },
+  {
+    "_id": "6856b5d4c0f75667a0c969be",
+    "NDC": "54288-105-01",
+    "error_message": "Failed to upload image for OCR. Status code: 503",
+    "error_time": "21/06/25 19:08:28"
+  },
+  {
+    "_id": "6856b712c0f75667a0c969bf",
+    "NDC": "54288-105-01",
+    "error_message": "Failed to upload image for OCR. Status code: 503",
+    "error_time": "21/06/25 19:13:46"
+  },
+  {
+    "_id": "6856b7d756ec7d5e904b37ee",
+    "NDC": "54288-105-01",
+    "error_message": "Failed to upload image for OCR. Status code: 503",
+    "error_time": "21/06/25 19:17:03"
+  },
+  {
+    "_id": "6856b803ee5bf308360cf76f",
+    "NDC": "54288-105-01",
+    "error_message": "Failed to upload image for OCR. Status code: 503",
+    "error_time": "21/06/25 19:17:47"
+  },
+  {
+    "_id": "6856b824ee5bf308360cf770",
+    "NDC": "54288-105-01",
+    "error_message": "Failed to upload image for OCR. Status code: 503",
+    "error_time": "21/06/25 19:18:20"
+  },
+  {
+    "_id": "6856b8361f93a7c4e6c9d3a0",
+    "NDC": "54288-105-01",
+    "error_message": "Failed to upload image for OCR. Status code: 503",
+    "error_time": "21/06/25 19:18:38"
+  },
+  {
+    "_id": "6856b89f7c6f8ebc6cab3151",
+    "NDC": "54288-105-01",
+    "error_message": "Failed to upload image for OCR. Status code: 503",
+    "error_time": "21/06/25 19:20:23"
+  },
+  {
+    "_id": "6856b989e99ba6d344e1b6b9",
+    "NDC": "54288-105-01",
+    "error_message": "Failed to upload image for OCR. Status code: 503",
+    "error_time": "21/06/25 19:24:17"
+  },
+  {
+    "_id": "6856b9a7e99ba6d344e1b6ba",
+    "NDC": "54288-105-01",
+    "error_message": "Failed to upload image for OCR. Status code: 503",
+    "error_time": "21/06/25 19:24:47"
+  },
+  {
+    "_id": "6856ba0af00b8997f9a25b87",
+    "NDC": "54288-105-01",
+    "error_message": "Failed to upload image for OCR. Status code: 503",
+    "error_time": "21/06/25 19:26:26"
+  }
+]
